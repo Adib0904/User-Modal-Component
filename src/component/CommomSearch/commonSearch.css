@@ -1,0 +1,24 @@
+.search-box {
+  height: 30%;
+  width: 50%;
+  margin-top: 10px;
+
+  padding: 10px;
+  border: 2px solid #218ad1;
+  border-radius: 5px;
+  outline: none;
+  font-size: 16px;
+
+
+}
+
+
+.search-div {
+
+  height: 70px;
+  background-color: #98c8e8;
+  border: 2px solid #2886c5;
+  position: fixed;
+  width: -webkit-fill-available;
+  z-index: 1;
+}
